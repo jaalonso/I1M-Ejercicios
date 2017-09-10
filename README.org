@@ -1,0 +1,11 @@
+En este repositorio se encuentran los ejercicios del curso de
+[[https://www.cs.us.es/~jalonso/cursos/i1m-17][Informática de 1º del Grado en Matemáticas]] de la Universidad de Sevilla.
+
+Para cada relación de ejercicio se muestra su enunciado, las revisiones de las
+soluciones colaborativas escritas por los alumnos (hasta su comentario en
+clase) y las soluciones definitivas. 
+
+Las relaciones se irán publicando conforme se vayan proponiendo a lo largo del
+curso. 
+
+
